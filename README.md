@@ -11,7 +11,7 @@ A place to see all abilities of the Whimsy MTG card.
 
 5 - Target player chosen at random draws three cards.
 
-6 - For each player, flip a coin. If the result is heads, search that player's library for a random creature card. Create a token copy of that creature card. Then, that player shuffles.
+6 - For each player, flip a coin. If the result is heads, search that player's library for a random creature card and create a token copy of that creature card under that player's control. Then, that player shuffles.
 
 7 - Destroy target artifact chosen at random. That artifact's controller gains life equal to its mana value.
 
